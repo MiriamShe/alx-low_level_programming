@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "header.h"
 
 /**
   * reset_to_98 - Updates the value it points to 98
