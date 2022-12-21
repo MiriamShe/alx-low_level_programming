@@ -1,4 +1,4 @@
-#!/bin/bash
+#include <stdio.h>
 
 /**
  * Description: main - prints out a string to stdout.
