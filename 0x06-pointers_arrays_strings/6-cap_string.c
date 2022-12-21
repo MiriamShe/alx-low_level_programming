@@ -8,6 +8,7 @@ int _indexOf(char a)
 {
 	int i;
 	char capArr[13] = {'\n', '\t', ' ', '.', ',', ';', ',', '!', '?', '(',')', '{', '}'};
+
 	for (i = 0; i < 13; i++)
 	{
 		if (capArr[i] == a)
