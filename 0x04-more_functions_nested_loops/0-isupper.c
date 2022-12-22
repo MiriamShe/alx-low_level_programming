@@ -2,7 +2,7 @@
 
 /**
  * _isupper - a function that checks for uppercase character
- * 
+ *
  * Description: Prints the alphabet with _putchar
  * @c: charater
  * Return: void
