@@ -3,8 +3,8 @@
 
 /**
  * print_to_98 - prints all natural numbers from
- * 		n to 98.
- * Return: Always 0.
+ * n to 98.
+ * @n: print from this
  **/
 
 void print_to_98(int n)
@@ -23,7 +23,7 @@ void print_to_98(int n)
 	}
 	else if (n >= 98)
 	{
-		for (j = n; j >=98; j--)
+		for (j = n; j >= 98; j--)
 		{
 			if (j != 98)
 				printf("%d, ", j);
